@@ -1,0 +1,33 @@
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-F_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-B_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-F_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-B_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-F_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-B_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\shiva\OneDrive\Desktop\G4-PCB\G4-PCB\KICAD PCB\H-bridge\Serial Basic CH340C\Serial Basic CH340C-job.gbrjob'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-job.gbrjob'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Cu.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Paste.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-F_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-B_Mask.gbr'.
+Plotted to 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\shiva\OneDrive\Desktop\PCB SUBMISSION\usb to serial\Serial Basic CH340C-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

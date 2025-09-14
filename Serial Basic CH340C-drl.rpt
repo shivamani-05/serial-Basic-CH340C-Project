@@ -1,0 +1,24 @@
+Drill report for Serial Basic CH340C.kicad_pcb
+Created on 2025-06-30T12:02:03+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Serial Basic CH340C-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (14 holes)
+    T2  1.190mm  0.0469"  (6 holes)
+
+    Total plated holes count 20
+
+
+Drill file 'Serial Basic CH340C-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  2.100mm  0.0827"  (4 holes)
+
+    Total unplated holes count 4
